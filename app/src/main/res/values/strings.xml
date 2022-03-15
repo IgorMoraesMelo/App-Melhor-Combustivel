@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alcool ou Gasolina 2.0</string>
+    <string name="preco_gasolina">Digite o preço da gasolina:</string>
+    <string name="preco_alcool">Digite o preço do alcool:</string>
+    <string name="calcular">Calcular</string>
+    <string name="img_logo">Img Logo</string>
+</resources>
